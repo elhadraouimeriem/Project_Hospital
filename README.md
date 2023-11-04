@@ -16,7 +16,7 @@ L'objectif de ce rapport est de présenter une vue d'ensemble complète du proje
 "Hospital Project" en mettant l'accent sur les concepts et les techniques clés utilisés 
 pour son développement.</p>
 <h2>Conception du Projet</h2>
-
+<img src="captures/conception.PNG" alt="Conception">
 <h2>Structure du Projet</h2>
 <p>Le projet "Hospital Project" est organisé en plusieurs packages et comprend les éléments suivants :</p>
 <ol>
