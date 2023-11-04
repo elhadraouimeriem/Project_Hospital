@@ -136,5 +136,8 @@ efficacement les données tout au long du projet. De plus, la création des rela
 les entités a illustré la manière dont Spring Data JPA facilite l'établissement de liens
 entre les entités.<br>
 
-Enfin, l'exposition d'une API REST pour la gestion des patients a montré comment Spring Boot simplifie le développement de points d'accès HTTP, tout en renvoyant des données au format JSON pour une intégration transparente avec d'autres systèmes.</p>
+Enfin, l'exposition d'une API REST pour la gestion des patients a montré
+comment Spring Boot simplifie le développement de points d'accès HTTP,
+tout en renvoyant des données au 
+JSON pour une intégration transparente avec d'autres systèmes.</p>
 
