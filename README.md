@@ -102,11 +102,10 @@ méthodes essentielles.
 <h2>Création des Relations entre les Entités</h2>
 
 <ul>
-<li> Création d'Entités et de Relations dans l'Application </li>
-<h3>Patients</h3>
+<h3>Patient</h3>
 <p>Pour créer un patient, on crée une instance de la classe Patient, on lui attribue les informations nécessaires, puis on utilise la méthode savePatient de l'interface IHospitalService pour le sauvegarder. Les patients sont associés aux rendez-vous via une relation OneToMany.</p>
 <img src="captures/patient_db.PNG" alt="Patient">
-<h3>Medecins</h3>
+<h3>Medecin</h3>
 <p style="text-align: justify; text-justify: inter-word;">Pour créer un médecin, on crée une instance de la classe Medecin, on lui attribue les informations nécessaires, puis on utilise la méthode saveMedecin de l'interface IHospitalService pour le sauvegarder. Les médecins sont également associés aux rendez-vous via une relation OneToMany.</p>
 <img src="captures/medecin_db.PNG" alt="Médecin">
 <h3>Rendez-vous</h3>
